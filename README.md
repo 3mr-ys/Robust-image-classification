@@ -1,2 +1,2 @@
-# Robust-image-classification
-Evaluating CNN robustness to common image corruptions on CIFAR-10.
+# Image-classification-under-adversarial-perturbations
+Evaluating CNN robustness under adversarial perturbations on CIFAR-10.
